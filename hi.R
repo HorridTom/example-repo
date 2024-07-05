@@ -1,3 +1,3 @@
 # Hello world
 
-x <- "red"
+x <- "blue"
