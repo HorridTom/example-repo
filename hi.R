@@ -1,5 +1,5 @@
 # Hello world
 
-x <- "green"
+x <- "blue"
 y <- "black"
 v <- 1
